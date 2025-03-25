@@ -1,0 +1,12 @@
+/NaturaApp
+│-- /src
+│   │-- /screens
+│   │   ├── HomeScreen.js
+│   │   ├── PedidosScreen.js
+│   │   ├── EstoqueScreen.js
+│   │   ├── RelatoriosScreen.js
+│   │-- /components
+│   │   ├── PedidoItem.js
+│   │-- App.js
+│-- package.json
+│-- app.json
